@@ -69,8 +69,7 @@ seat-actuarial-valuation-nifd3/
 │   └── tablas_biometricas.csv        # EMSSA-09, EISS-97, Winklevoss y Curva de Bonos
 │
 ├── excel/
-│   ├── Valuacion_Actuarial_Pension_Factory_Original.xlsx
-│   └── Valuacion_Actuarial_Pension_Factory_Auditada.xlsx
+│   ├── Valuacion_Actuarial_Pension_Factory.xlsx
 │
 ├── src/
 │   ├── conmutados.py                 # Cálculo de tablas de vida y anualidades vitalicias
